@@ -82,7 +82,7 @@ The results show the feasibility of applying machine learning for early livestoc
 
 1. Clone the repository:
 
-git clone https://github.com/username/livestock-disease-prediction.git  
+git clone https://github.com/Shrestha771/livestock.git  
 cd ai_model
 
 2. Install dependencies:
